@@ -1,8 +1,8 @@
 # Intro
 
-I'm trying to scrape planning applications in Moreland Council (Melbourne, Victoria) that have been decided on.
+I'm trying to scrape planning applications in Moreland Council (Melbourne, Victoria) that have been decided on.  This I reckon would complement the Planning Alerts scraper that already exists (that scrapes newly advertised planning alerts only).
 
-However, I'm struggling to navigate to the page I need.
+However, I'm struggling to navigate to the exact page I need.
 
 ## Planning Permit decisions
 
